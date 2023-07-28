@@ -17,7 +17,7 @@ This GitHub repository contains code and analysis for exploring multiple years o
 ## Introduction
 
 Developer surveys provide valuable insights into the preferences and trends within the software development community. This project utilizes Python and pandas to process and analyze survey data from different years. The analysis includes visualizations to convey the findings effectively.
-
+The blog which contains an overview of the project can be found here: https://medium.com/@lima.fisico/write-a-data-science-blog-post-ce4f2be15704
 ## Files
 
 The repository includes the following files:
